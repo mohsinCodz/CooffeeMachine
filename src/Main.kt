@@ -9,9 +9,7 @@ data class CoffeeDetails(
 fun main() {
 
     askCoffeeDetails()
-
-    /*val coffeeForMohsin = CoffeeDetails(0, "Mohsin", "M", 0)
-    makeCoffee(coffeeForMohsin)*/
+    
 }
 
 fun askCoffeeDetails(){
